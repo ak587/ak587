@@ -10,7 +10,7 @@ I specialize in Computational Fluid Dynamics and Aerodynamics, with a heavy focu
 Currently wrapping up my MS (Research) at IIT Kanpur, I am actively looking for high-end R&D roles where I can act as a force multiplier for thermal-fluids teams.
 
 ## Tech Stack & Capabilities
-* **CFD & Physics:** Ansys Fluent, Compressible Flows, Turbulence Modeling (RANS/DES), Data Analysis.
+* **CFD & Physics:** Ansys Fluent, Compressible Flows, Turbulence Modeling, Data Analysis.
 * **Simulation Automation:** Headless Fluent Execution, Bash/Linux Scripting, HPC Cluster Orchestration (SLURM/PBS).
 * **Data Engineering & Analytics:** Python, NumPy (Vectorization), PyVista (Unstructured to Structured Mapping), `.cgns` Parsing, SciPy.
 
